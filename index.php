@@ -32,7 +32,7 @@
             echo "<div class='fin'><div class='container'>Le fichier comporte actuellement ".$lineCount." informations inutiles.</div></div>";
         ?>
         <form action="index.php" method="post">
-            <div class="container">
+            <div class="container" id="button">
                 <button type="submit" name="submit" class="button"><span class="button-content">Afficher une information inutile</span></button>
             </div>
         </form>
