@@ -2,6 +2,45 @@
   font-family: InfoFont;
   src: url(Caveat-SemiBold.ttf);
 }
+@font-face {
+  font-family: WelcomeFont;
+  src: url(Salting-Free.ttf);
+}
+
+.icon{
+  position: absolute;
+  top: 0;
+  padding: 15px;
+  background-color: rgba(0,0,0,0);
+}
+#i1{
+  left: 10%;
+}
+#i2{
+  right: 10%;
+}
+
+.welcome{
+  position: absolute;
+  top: 30%;
+  left: 10%;
+  right: 10%;
+  color: #fff;
+  background-color: #5bc0de;
+  border-color: #46b8da;
+  padding: 15px;
+  margin-bottom: 20px;
+  border: 1px solid transparent;
+  border-radius: 10px;
+  text-align: center;
+  font-family: WelcomeFont;
+  font-size: 96px;}
+
+.welcome:hover{
+  background: rgba(0,0,0,0);
+  transition: all 0.5s ease-in-out;
+}
+
 body{
   background: linear-gradient(
     172.3deg,
@@ -12,7 +51,7 @@ body{
 
 .info{
     position: absolute;
-    top: 50%;
+    top: 40%;
     left: 10%;
     right: 10%;
     color: #fff;
@@ -49,6 +88,7 @@ body{
   position: relative;
   font-size: 5rem;
   z-index: 1;
+  font-family: WelcomeFont;
 }
 
 .button::before {

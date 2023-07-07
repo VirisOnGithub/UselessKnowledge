@@ -1,12 +1,16 @@
+<!-- ignore, for dev
+<br><a href=""></a>
+<br><a href="https://fr.wikipedia.org/wiki/">Wikipedia</a>
+-->
+
 <html>
     <head>
         <title>Useless Knowledge</title>
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
-        <h1>Bienvenue sur le site Useless Knowledge !</h1>
-        <h2>Vous trouverez ici des informations inutiles sur des sujets inutiles.</h2>
-
+        <img src="UK-ai-no-bg.png" alt="icon for the Website" class="icon" id="i1">
+        <img src="UK-ai-no-bg-reversed.png" alt="icon for the Website" class="icon" id="i2">
         <?php 
             //on compte le nombre de ligne du fichier
             $file = fopen("infos.txt", "r");
@@ -28,6 +32,9 @@
                         echo "<div class='container'><div class='info'>".$line."</div></div>";
                     }
                 }
+            }
+            else{
+                echo "<div class='container'><div class='welcome'>Bienvenue sur le site Useless Knowledge !</div></div>";
             }
             echo "<div class='fin'><div class='container'>Le fichier comporte actuellement ".$lineCount." informations inutiles.</div></div>";
         ?>
