@@ -1,6 +1,6 @@
 <!-- ignore, for dev
-<br><a href=""></a>
-<br><a href="https://fr.wikipedia.org/wiki/">Wikipedia</a>
+<br><a href="" target="_blank"></a>
+<br><a href="https://fr.wikipedia.org/wiki/" target="_blank">Wikipedia</a>
 -->
 
 <html>
@@ -36,7 +36,7 @@
             else{
                 echo "<div class='container'><div class='welcome'>Bienvenue sur le site Useless Knowledge !</div></div>";
             }
-            echo "<div class='fin'><div class='container'>Le fichier comporte actuellement ".$lineCount." informations inutiles.</div></div>";
+            echo "<div class='fin'><div class='container'>La base de données comporte actuellement ".$lineCount." informations inutiles.</div></div>";
         ?>
         <form action="index.php" method="post">
             <div class="container" id="button">

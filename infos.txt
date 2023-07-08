@@ -2,10 +2,22 @@ Les fluides non-newtoniens sont appelés rhéostatiques
 "poids" s'écrit avec un d alors que son étymologie est le mot pensum. La légende raconte que le mot a été en fait confondu premièrement avec le mot "pendere", qui signifie suspendre
 Lors de l'énoncé de son dernier théorème, Pierre de Fermat écrit dans sa marge "J'ai une très belle démonstration de ce théorème, mais cette marge ne suffirait pas à la contenir". Fermat meurt un an après et ne pourra jamais délivrer cette preuve.
 L'origine du nom du mouvement littéraire dada été trouvé par hasard en glissant un coupe-papier dans un dictionnaire <br> <a href=https://fr.wikipedia.org/wiki/Dada#Origine_du_nom target="_blank">Wikipedia</a>
-La ville francophone la plus grande du monde est Kinshasa (RDC), avec plus de 17 millions de locuteurs <br><a href="https://fr.wikipedia.org/wiki/Kinshasa">Wikipédia</a>
-Si l'on place un grain de riz sur la première case d'un échiquier, puis le double sur la case suivante, et ainsi de suite, on mettra en tout plus de 18 quadrillions de grains de riz, ce qui correspond au 64e nombre de Mersenne.<br><a href="https://fr.wikipedia.org/wiki/Probl%C3%A8me_de_l%27%C3%A9chiquier_de_Sissa">Le problème de Sissa</a><br><a href="https://fr.wikipedia.org/wiki/Nombre_de_Mersenne">Nombres de Mersenne</a>
-L'atome le plus lourd aujourd'hui recensé est l'Unuoctium, aussi appelé Oganesson. <br><a href="https://fr.wikipedia.org/wiki/Oganesson">Wikipedia</a>
-En peinture, le noir est complètement proscrit, on utilise pour illustrer ce noir un marron très foncé <br><a href="https://www.youtube.com/watch?v=7bLrRGK8D2Y">Youtube</a>
+La ville francophone la plus grande du monde est Kinshasa (RDC), avec plus de 17 millions de locuteurs <br><a href="https://fr.wikipedia.org/wiki/Kinshasa" target="_blank">Wikipédia</a>
+Si l'on place un grain de riz sur la première case d'un échiquier, puis le double sur la case suivante, et ainsi de suite, on mettra en tout plus de 18 trillions de grains de riz, ce qui correspond au 64e nombre de Mersenne.<br><a href="https://fr.wikipedia.org/wiki/Probl%C3%A8me_de_l%27%C3%A9chiquier_de_Sissa" target="_blank">Le problème de Sissa</a><br><a href="https://fr.wikipedia.org/wiki/Nombre_de_Mersenne" target="_blank">Nombres de Mersenne</a>
+L'atome le plus lourd aujourd'hui recensé est l'Unuoctium, aussi appelé Oganesson. <br><a href="https://fr.wikipedia.org/wiki/Oganesson" target="_blank">Wikipedia</a>
+En peinture, le noir est complètement proscrit, on utilise pour illustrer ce noir un marron très foncé <br><a href="https://www.youtube.com/watch?v=7bLrRGK8D2Y" target="_blank">Youtube</a>
 Scotch est en réalité une marque : le nom "usuel" est ruban adhésif
-Le seul animal encore présent sur Terre commençant par la lettre N est le Nyala. <br><a href="https://fr.wikipedia.org/wiki/Nyala">Wikipedia</a>
-YouTube est racheté par Google seulement 1 an et demi après sa création, pour un total de 1.65 Md de dollars. <br><a href="https://fr.wikipedia.org/wiki/YouTube">Wikipedia</a>
+Le seul animal encore présent sur Terre commençant par la lettre N est le Nyala. <br><a href="https://fr.wikipedia.org/wiki/Nyala" target="_blank">Wikipedia</a>
+YouTube est racheté par Google seulement 1 an et demi après sa création, pour un total de 1.65 Md de dollars. <br><a href="https://fr.wikipedia.org/wiki/YouTube" target="_blank">Wikipedia</a>
+L'étoile la plus proche du Soleil s'appelle Proxima du Centaure, ou Alpha du Centaure. <br><a href="https://fr.wikipedia.org/wiki/Proxima_Centauri" target="_blank"></a>
+Le chlore brûle totalement le coton, mais si il est hautement dilué, il peut participer à son blanchiment
+Pour générer une page aléatoire sur Wikipedia, il vous suffit d'aller sur n'importe quelle page et d'effectuer la combinaison <code>Alt+Shift+X</code>
+En Pologne, une voïvodie désigne un canton de Pologne <br><a href="https://fr.wikipedia.org/wiki/Vo%C3%AFvodies_de_Pologne" target="_blank"></a>
+La guerre du Viêt Nam est considérée comme étant la première défaite militaire des Etats-Unis <br><a href="https://fr.wikipedia.org/wiki/Guerre_du_Vi%C3%AAt_Nam" target="_blank">Wikipedia</a>
+Si l'on vous met dans une salle avec 22 autres personnes, vous avez 1 chance sur 2 que deux d'entre vous aient la même date d'anniversaire <br><a href="https://fr.wikipedia.org/wiki/Paradoxe_des_anniversaires" target="_blank">Paradoxe des anniversaires</a>
+Shakespeare est mort le jour de son anniversaire
+Vous avez 226 milliards de fois plus de chance de gagner au loto que d'avoir deux fois exactement la même combinaison au rubik's cube (19 millions contre 43 trillions)
+Le record de ventes d'un jeu vidéo est <span style="font-style='italic'">Pokémon Rouge & Bleu</span>, avec plus de 30 millions de ventes
+La vitesse de la lumière dans le vide est EXACTEMENT 299 792 458 m/s, car c'est grâce à cette vitesse que le mètre est défini <br><a href="https://fr.wikipedia.org/wiki/Mètre" target="_blank">Wikipedia</a>
+On peut connaître l'aire d'un triangle quelconque en connaissant que la longueur de ses trois côtés. <br><a href="https://fr.wikipedia.org/wiki/Formule_de_H%C3%A9ron" target="_blank">Formule de Héron</a>
+Le calcul intégral à été inventé par deux mathématiciens à la même époque, sans qu'aucun d'eux n'ait copié sur l'autre : Les parent de cette branche des mathématiques sont Newton et Leibniz <br><a href="https://fr.wikipedia.org/wiki/Histoire_du_calcul_infinit%C3%A9simal#Querelle_d'ant%C3%A9riorit%C3%A9" target="_blank">La querelle de Newton et Leibniz</a>

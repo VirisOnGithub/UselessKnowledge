@@ -22,7 +22,7 @@
 
 .welcome{
   position: absolute;
-  top: 30%;
+  top: 40%;
   left: 10%;
   right: 10%;
   color: #fff;
@@ -121,4 +121,6 @@ body{
   text-align: center;
   width: 100%;
   font-size: 1.5rem;
+  font-family: InfoFont;
+  color: rgb(137, 64, 247);
 }
