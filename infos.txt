@@ -22,3 +22,4 @@ La vitesse de la lumière dans le vide est EXACTEMENT 299 792 458 m/s, car c'est
 On peut connaître l'aire d'un triangle quelconque en connaissant que la longueur de ses trois côtés. <br><a href="https://fr.wikipedia.org/wiki/Formule_de_H%C3%A9ron" target="_blank">Formule de Héron</a>
 Le calcul intégral à été inventé par deux mathématiciens à la même époque, sans qu'aucun d'eux n'ait copié sur l'autre : Les parent de cette branche des mathématiques sont Newton et Leibniz <br><a href="https://fr.wikipedia.org/wiki/Histoire_du_calcul_infinit%C3%A9simal#Querelle_d'ant%C3%A9riorit%C3%A9" target="_blank">La querelle de Newton et Leibniz</a>
 Claquettes, Molière et Martin Luther King Jr sont né le même jour, un 15 janvier. 
+C'est un ancien nazi qui a mis au point les fusées Apollo 11, qui ont permis aux Américains d'aller sur la Lune.
