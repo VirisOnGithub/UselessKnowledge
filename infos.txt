@@ -57,3 +57,5 @@ Le petit du léopard et de la lionne s'appelle le léopon
 "Passion" vient du grec <i>passio</i>, qui signifie douleur
 La marque KAPLA tire son nom de <i><b>ka</b>bouter <b>pla</b>nkjes</i>, qui signifie littéralement "planches de lutin"
 La vitesse d'un spermatozoïde à l'expulsion est de 40 m/s, soit plus qu'une voiture sur autoroute
+Le muscle couturier est appelé ainsi parce qu'il permet de s'asseoir en tailleur
+Une antilimite est la limite que l'on peut associer aux suites divergentes par sommation
